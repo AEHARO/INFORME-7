@@ -4,16 +4,27 @@
 1. OBJETIVOS
 
 ◆ Describir la construcción y las características básicas de un inductor 
+
 ◆ Estudiar varios tipos de inductores
+
  ◆ Analizar inductores dispuestos en serie y en paralelo
+ 
  ◆ Analizar circuitos inductivos conmutadores de cd 
+ 
 ◆ Analizar circuitos inductivos de ca 
+
 ◆ Examinar algunas aplicaciones de los inductores
+
 ◆ Explicar la inductancia mutua 
+
 ◆ Describir cómo se construye un transformador y cómo funciona 
+
 ◆ Describir cómo los transformadores incrementan y disminuyen el voltaje 
+
 ◆ Analizar el efecto de una carga resistiva a través del devanado secundario 
+
 ◆ Analizar el concepto de carga reflejada en un transformador
+
  ◆ Analizar la igualación de impedancias con transformadores
 
 
