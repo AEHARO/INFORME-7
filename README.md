@@ -71,6 +71,16 @@
 
 6. BIBLIOGRAFÍA
 
+Mutual Inductance. (s. f.). hyperphysics. Recuperado 2 de agosto de 2022, de http://hyperphysics.phy-astr.gsu.edu/hbasees/magnetic/indmut.html#:%7E:text=Se%20llama%20inductancia%20mutua%20al,acoplada%20(ley%20de%20Lenz%20).
+
+
+Luis R., J. (2021, 31 julio). TRANSFORMADOR | Que es, como funciona, tipos y partes. ComoFunciona | Explicaremos hasta cosas que NO existen! Recuperado 2 de agosto de 2022, de https://como-funciona.co/un-transformador/
+
+
+CIRCUITOS INDUCTIVOS - 286-ley de ohm cc y ca. (s. f.). sites. Recuperado 202–08-02, de https://sites.google.com/site/286leydeohmccyca/circuitos-inductivos
+
+
+
 
 
 
