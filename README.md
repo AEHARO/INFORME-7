@@ -67,6 +67,12 @@
 5. CONCLUSIONES
 
 
+•	Los condensadores y los inductores son dispositivos de gran ayuda en la parte eléctrica así que es de gran utilidad saber información acerca de ellos
+
+•	Los inductores y capacitores son elementos lineales, pasivos los cuales absorben energía del circuito, almacenan esta energía temporeramente y luego la devuelven al circuito.
+
+•	se estudiaron distintos temas como la inductancia mutua se aprendió que es el resultado de dos bobinas suficientemente aproximadas una de la otra donde el flujo de corriente atraviesa a la primaria y produzca una tensión en las terminales de la secundaria, también se estudio la convección del punto que ayudo a saber la referencia de tensión positiva de una bobina hacia la otra, también se calculo la potencia activa que entrada un transformador en corto-circuito y circuito abierto, analizamos sobre los transformadores lineales e ideales las diferencias y como se estudia cada uno de ellos, dentro de ellos aprendíamos a calcular la relación de vuelta (espiras) que tiene cada inductor. 
+
 
 
 6. BIBLIOGRAFÍA
