@@ -3,6 +3,8 @@
 
 1. OBJETIVOS
 
+Analizar los temas comprendidos entre los capítulos 13 y 14 del libro Principios de Circuitos Eléctricos utilizando mapas mentales y resúmenes para una posterior resolución de los ejercicios planteados.
+
 ◆ Describir la construcción y las características básicas de un inductor 
 
 ◆ Estudiar varios tipos de inductores
