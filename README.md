@@ -53,16 +53,36 @@ Analizar los temas comprendidos entre los capítulos 13 y 14 del libro Principio
 ![image](https://user-images.githubusercontent.com/105679480/184359341-d7b50250-33ef-41d2-b220-8bea8926f465.png)
 ![image](https://user-images.githubusercontent.com/105679480/184359451-d2e06c9e-949f-42b9-ba60-2fd9de7fd731.png)
 
-
-
-
-
 3. EXPLICACIÓN Y RESOLUCIÓN DE EJERCICIOS O PROBLEMAS
 
+![image](https://user-images.githubusercontent.com/105679480/185518564-67ae9704-6b06-40d1-a949-90c5435f1786.png)
+
+![image](https://user-images.githubusercontent.com/105679480/185518827-5cad3a45-ecea-43b8-a370-804ba1cf7db4.png)
+
+! [imagen] (https://user-images.githubusercontent.com/105679480/185518806-97d7e963-d4bb-4712-a1ff-1b00c4a2493f.png)
+![image](https://user-images.githubusercontent.com/105679480/185518859-ff7632fc-1495-48a0-987a-15229b378d9a.png)
+![image](https://user-images.githubusercontent.com/105679480/185518895-70bf5548-fddf-46b7-9bf3-654034b1eb6a.png)
+![image](https://user-images.githubusercontent.com/105679480/185518921-d929fa5e-9ef1-419c-b963-69d8b65d8708.png)
+![image](https://user-images.githubusercontent.com/105679480/185518951-58a0d2c8-e4c0-4ec9-826c-21dc8097abcf.png)
+![image](https://user-images.githubusercontent.com/105679480/185518985-07bac5f9-fa82-4197-b035-612dff4d775d.png)
+![image](https://user-images.githubusercontent.com/105679480/185519011-c1c04192-01df-4ccd-8e85-d6860a3f1ebc.png)
+![image](https://user-images.githubusercontent.com/105679480/185519029-334602c8-e9b0-4363-9d15-af08e535f416.png)
+![image](https://user-images.githubusercontent.com/105679480/185519053-77badd2e-14e5-4773-946f-970214e5cf9c.png)
+![image](https://user-images.githubusercontent.com/105679480/185519083-8eeb8f0a-1d70-4dbc-ace1-a61e2c3c9396.png)
+![image](https://user-images.githubusercontent.com/105679480/185519108-05bd0c90-facb-47a8-8e91-1ffba712bbca.png)
+![image](https://user-images.githubusercontent.com/105679480/185519142-15f2d237-19c3-4458-99e0-77e16d1bf07d.png)
+![image](https://user-images.githubusercontent.com/105679480/185519160-a5588b27-3556-49fd-b9f4-ef4c3a415d0a.png)
+![image](https://user-images.githubusercontent.com/105679480/185519187-30de1dfd-8098-4239-9e7e-cc4fcac89271.png)
+![image](https://user-images.githubusercontent.com/105679480/185519212-0060b5ea-dbcb-42bc-a089-eb3d286e3e4f.png)
+![image](https://user-images.githubusercontent.com/105679480/185519237-c90a4bfc-5d3e-4c24-9aac-0c800ab0fda5.png)
+![image](https://user-images.githubusercontent.com/105679480/185519261-32f0ac19-45d1-4829-abb4-540f45919c90.png)
+![image](https://user-images.githubusercontent.com/105679480/185519292-15ab1cc5-a026-4bed-84bc-7582b6f8cb2f.png)
+![image](https://user-images.githubusercontent.com/105679480/185519316-55d1ab6c-65d0-416c-ba66-ced6272378bb.png)
+![image](https://user-images.githubusercontent.com/105679480/185519347-49e20a18-85a9-4ccf-8d74-5bc081bacd67.png)
 
 
 
-4. VIDEO
+4. VÍDEO
 
 
 
